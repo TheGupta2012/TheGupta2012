@@ -4,8 +4,8 @@
 - My interests and likings range from <font size = 5>*playing the piano to reading anything I can get my hands on!*</font>
 
 ### Current 
-- I am working at VISA as a Software Engineer in the Big Data Services team, managing Spark over Kubernetes.
-- I'm also an active contributor for [qBraid](https://www.qbraid.com/), developing their [qbraid-sdk](https://github.com/qBraid/qBraid/pulls?q=is%3Apr+author%3ATheGupta2012+is%3Aclosed) and [qbraid-qir](https://github.com/qBraid/qbraid-qir/pull/54) packages. 
+- I'm currently working as a Quantum Software Engineer for [qBraid](https://www.qbraid.com/), developing their [qbraid-sdk](https://github.com/qBraid/qBraid/pulls?q=is%3Apr+author%3ATheGupta2012+is%3Aclosed) and [qbraid-qir](https://github.com/qBraid/qbraid-qir/pull/54) packages. I also work in managing their deployment stack and the backend APIs.
+- I also have experience in working with Big Data at VISA as a Software Engineer where I managed Spark Compute as a Service (SCaaS) infrastructure for their Data and AI Platform.
 
 ### Past Projects
 - I developed a debugger for the qiskit transpiler under the [Unitary Fund Microgrant Program](https://unitary.fund/grants.html) and have worked at [Quanfluence](https://www.linkedin.com/company/quanfluence/?trk=similar-pages) where I developed a C-based parser, preprocessor and data structures for representing QASM programs.
