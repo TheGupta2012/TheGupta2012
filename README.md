@@ -12,4 +12,5 @@
 - I've also worked with Quantum Phase Estimation algorithms and developed a package consisting of many types of [phase estimation algorithms](https://github.com/TheGupta2012/QPE-Algorithms).
 - I write occasionally on [Medium](https://medium.com/@harshit.11235) about quantum computing and general software stuff. Here's a [blog](https://harshitco19.wixsite.com/uncertainist) that I wrote a while ago when I was starting out with my journey in quantum.
 
-- Feel free to contact at- <a href = "https://www.linkedin.com/in/harshit-gupta-75b2171b3/"> Linkedin </a> 
+
+Let's get in touch @ <a href = "https://www.linkedin.com/in/harshit-gupta-75b2171b3/"> Linkedin </a>! 
