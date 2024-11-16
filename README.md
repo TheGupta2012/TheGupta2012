@@ -1,11 +1,11 @@
 # Hello there
 - Welcome to my virtual space 😄
-- I'm a software engineer who's interested in learning more about Distributed Computing, Quantum Computing, and Quantum Compilation. I've studied computer science and engineering from Netaji Subhash University of Technology, Delhi, India
+- I'm a software engineer who's interested in learning more about Quantum Computing, and Compilation. I've studied computer science and engineering from Netaji Subhash University of Technology, Delhi, India
 - Besides tech, my interests and likings range from playing the piano (a lot of Ludovico Einaudi) to reading anything I can get my hands on (but a lot of biographies)!
 
 ### Work Experience
-- I'm currently working as a Quantum Software Engineer for [qBraid](https://www.qbraid.com/), developing their [qbraid-sdk](https://github.com/qBraid/qBraid/pulls?q=is%3Apr+author%3ATheGupta2012+is%3Aclosed), [pyqasm](https://github.com/qBraid/pyqasm) and [qbraid-qir](https://github.com/qBraid/qbraid-qir/pull/54) packages. I also work in managing their deployment stack and the backend APIs.
-- I also have experience in working with Big Data at VISA as a Software Engineer where I managed Spark Compute as a Service (SCaaS) infrastructure for their Data and AI Platform.
+- I'm currently working as a Quantum Software Engineer for [qBraid](https://www.qbraid.com/), developing their [qbraid-sdk](https://github.com/qBraid/qBraid/pulls?q=is%3Apr+author%3ATheGupta2012+is%3Aclosed), [pyqasm](https://github.com/qBraid/pyqasm) and [qbraid-qir](https://github.com/qBraid/qbraid-qir/pull/54) packages. I also work on their deployment stack and the backend APIs.
+- I have experience in working with Big Data at VISA as a Software Engineer where I managed Spark Compute as a Service (SCaaS) infrastructure for their Data and AI Platform.
 
 ### Past Projects
 - I developed a debugger for the qiskit transpiler under the [Unitary Fund Microgrant Program](https://unitary.fund/grants.html) and have worked at [Quanfluence](https://www.linkedin.com/company/quanfluence/?trk=similar-pages) where I developed a C-based parser, preprocessor and data structures for representing QASM programs.
